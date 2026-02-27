@@ -31,5 +31,15 @@ To connect Telegram with your Cloudflare Worker, open your browser and visit thi
 - 🔒 **Privacy:** Includes `robots.txt` to prevent search engine indexing.
 - 🎨 **Minimal Home Page:** Professional landing page included.
 
+### 🤖 Bot Demo & Setup
+To test or use the official demo version of this bot, add it to your channel as an admin:
+
+**Bot Username:** `@AutoApprovalForChannel_bot` (Tap to copy)
+
+**Setup Instructions:**
+1. Add `@AutoApprovalForChannel_bot` as an Admin.
+2. Ensure **"Invite Users via Link"** permission is ON.
+3. Enable **"Request Admin Approval"** for your invite link.
+
 ## 👨‍💻 Developer
 Developed by [AkherSheikh](https://github.com/AkherSheikh).
